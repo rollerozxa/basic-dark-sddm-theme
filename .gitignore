@@ -1,0 +1,4 @@
+basic-dark-sddm-theme/
+pkg/
+src/
+*.pkg.tar.zst
