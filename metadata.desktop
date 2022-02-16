@@ -1,0 +1,8 @@
+[SddmGreeterTheme]
+Name=Basic Dark
+Description=Basic Dark Theme
+License=CC-BY-SA
+Type=sddm-theme
+MainScript=Main.qml
+Theme-Id=basicdark
+Theme-API=2.0
