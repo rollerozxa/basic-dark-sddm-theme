@@ -153,7 +153,7 @@ Rectangle {
 
 		Row {
 			anchors.left: parent.left
-			anchors.bottom: parent.bottom
+			anchors.top: parent.top
 			anchors.margins: 5
 			height: 40
 			spacing: 5
